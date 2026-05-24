@@ -1,0 +1,6 @@
+{
+  "name": "Scalora Dental Studio",
+  "description": "An ultra-premium dental clinic website focusing on precision cosmetic dentistry, dental implants, teeth alignment, and virtual AI dental consulting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
